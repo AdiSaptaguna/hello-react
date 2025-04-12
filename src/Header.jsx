@@ -1,9 +1,10 @@
-import React from 'react';
+import React, {component} from 'react';
 class Header extends React.Component {
-    render () {
+     render() {
       return (
         <div>
           <h2>Makanan Khas Indonesia</h2>
+          
         </div>
       );
     }
